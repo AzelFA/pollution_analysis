@@ -6,3 +6,4 @@ seaborn
 altair
 scikit-learn
 requests
+babel
