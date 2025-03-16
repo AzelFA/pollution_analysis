@@ -9,7 +9,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 #Load dataset
-df = pd.read_csv("/dashboard/shunyi_cleaned.csv")
+df = pd.read_csv("dashboard/shunyi_cleaned.csv")
 
 #Dataset Normalisasi
 scaler = MinMaxScaler()
